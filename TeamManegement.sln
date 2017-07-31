@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-EntitiesLayer", "01-EntitiesLayer", "{771F68F2-0988-4A43-8329-2E0D3F8E51FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesLayer", "EntitiesLayer\EntitiesLayer.csproj", "{494AB073-8A0E-4621-9CAA-882EA264DFE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-DataAccessLayer", "02-DataAccessLayer", "{79D7396E-96DE-4BBC-B296-B6E00D2618C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-BussinessLogicLayer", "03-BussinessLogicLayer", "{87E21B1F-A963-404F-8714-A87C892AD70E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-PresentationLayer", "04-PresentationLayer", "{4CD0E7C7-91C7-423B-98FD-4C374E1108AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{CD991197-D054-47E5-84CD-578A1A79DFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogicLayer", "BussinessLogicLayer\BussinessLogicLayer.csproj", "{6F6C186B-3C5C-4E4D-823F-0301E12D5B1C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://taskmanagementez.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EntitiesLayer\\EntitiesLayer.csproj
+		SccProjectTopLevelParentUniqueName1 = TeamManegement.sln
+		SccProjectName1 = EntitiesLayer
+		SccLocalPath1 = EntitiesLayer
+		SccProjectUniqueName2 = DataAccessLayer\\DataAccessLayer.csproj
+		SccProjectTopLevelParentUniqueName2 = TeamManegement.sln
+		SccProjectName2 = DataAccessLayer
+		SccLocalPath2 = DataAccessLayer
+		SccProjectUniqueName3 = BussinessLogicLayer\\BussinessLogicLayer.csproj
+		SccProjectTopLevelParentUniqueName3 = TeamManegement.sln
+		SccProjectName3 = BussinessLogicLayer
+		SccLocalPath3 = BussinessLogicLayer
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494AB073-8A0E-4621-9CAA-882EA264DFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494AB073-8A0E-4621-9CAA-882EA264DFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494AB073-8A0E-4621-9CAA-882EA264DFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494AB073-8A0E-4621-9CAA-882EA264DFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD991197-D054-47E5-84CD-578A1A79DFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD991197-D054-47E5-84CD-578A1A79DFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD991197-D054-47E5-84CD-578A1A79DFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD991197-D054-47E5-84CD-578A1A79DFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6C186B-3C5C-4E4D-823F-0301E12D5B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6C186B-3C5C-4E4D-823F-0301E12D5B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6C186B-3C5C-4E4D-823F-0301E12D5B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6C186B-3C5C-4E4D-823F-0301E12D5B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{494AB073-8A0E-4621-9CAA-882EA264DFE3} = {771F68F2-0988-4A43-8329-2E0D3F8E51FE}
+		{CD991197-D054-47E5-84CD-578A1A79DFA1} = {79D7396E-96DE-4BBC-B296-B6E00D2618C7}
+		{6F6C186B-3C5C-4E4D-823F-0301E12D5B1C} = {87E21B1F-A963-404F-8714-A87C892AD70E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\yzlm\Documents\TFS_V1\Task Management\TeamManegement\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
